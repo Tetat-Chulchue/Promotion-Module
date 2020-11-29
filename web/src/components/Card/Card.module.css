@@ -1,0 +1,86 @@
+.container {
+  min-width: 47%;
+  max-width: 47%;
+  height: fit-content;
+  border-radius: 10px;
+  padding: 10px 13px;
+  margin-bottom: 10px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 6px 21px 0px rgba(0, 0, 0, 0.41);
+  box-shadow: 0px 6px 21px 0px rgba(0, 0, 0, 0.41);
+  transition: all 0.1s ease-in-out;
+}
+
+.container:hover {
+  transform: scale(1.05);
+}
+
+.haeder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.haeder h3 {
+  font-size: 30px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 5px 10px;
+  flex: 1;
+  margin-right: 10px;
+}
+
+.haeder label {
+  font-size: 30px;
+  font-weight: 600;
+  color: #62cc35;
+  padding: 5px 10px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+
+.row {
+  margin-top: 5px;
+
+  font-size: 15px;
+}
+
+.row span {
+  font-weight: 700;
+}
+
+.exp {
+  width: 100%;
+  text-align: center;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 10px;
+  border: 2px dashed #eb3333;
+}
+
+.exp p {
+  color: #de6e6e;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 15px;
+}
+
+.footer button {
+  margin-right: 10px;
+}
+
+.description {
+  margin-top: 10px;
+  line-break: anywhere;
+  font-size: 15px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 10px;
+}

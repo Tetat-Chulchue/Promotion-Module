@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-image: url("https://i0.wp.com/www.thasalahos.org/wp-content/uploads/2014/04/bokeh-cover-bg1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
