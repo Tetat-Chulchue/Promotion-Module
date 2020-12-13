@@ -7,4 +7,6 @@
 นายณัฐพงษ์ นาคชื่น  61070055 \
 นาย ธนวัตน์ จันทร์หอม  61070078 \
 นายธีธัช จุลเจือ  61070089\
-นายธีรศักดิ์ วงษ์ภู่  61070094
+นายธีรศักดิ์ วงษ์ภู่  61070094\
+
+![Image of Yaktocat](https://github.com/Tetat-Chulchue/Promotion-Module/blob/main/diagram.jpg?raw=true)
